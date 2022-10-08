@@ -1,0 +1,14 @@
+.button-wrapper {
+  padding: 20px;
+}
+.button {
+  padding: 10px 20px;
+  color: white;
+  background-color: teal;
+  cursor: pointer;
+}
+
+.count {
+  font-size: 120px;
+  font-weight: bold;
+}
